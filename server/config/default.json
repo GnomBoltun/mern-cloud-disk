@@ -1,5 +1,6 @@
 {
   "serverPort" : 5000,
   "dbUrl": "mongodb+srv://AlexVezon:DinesK0Tv3WL51ZS@cluster0.js3p5.mongodb.net/?retryWrites=true&w=majority",
-  "secretKey": "very-secret-key-ulala"
+  "secretKey": "very-secret-key-ulala",
+  "filePath": "/home/gnomboltun/WebstormProjects/mern-cloud-disk/server/files"
 }
